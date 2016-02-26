@@ -1,0 +1,23 @@
+in,BV STR TRF/STD ORD BPK RAUL BOSCARINO,Income:Interest Income
+in,BY ADM KARTU,Expenses:Bank Service Charge
+in,BY ADMINISTRASI,Expenses:Bank Service Charge
+in,JASA GIRO/BUNGA,Income:Interest Income
+in,PENARIKAN TUNAI,Assets:Cash
+in,TARIK TUNAI,Assets:Cash
+in,PPH,Expenses:Taxes
+re,TRANSFER DARI.*TOM\s+WHEELER,Assets:Receivable:Tom
+in,"TRANSFER KE ARWIN, ANDI",Liabilities:Payable:Arwin
+in,TRANSFER KE BPK NURDIANSYAH,Assets:Cash:Baso
+in,TRANSFER KE BPK RAUL BOSCARINO,Assets:Cash:Raul
+in,TRANSFER KE IBU SUSILAWATI,Liabilities:Payable:Muin
+in,TRANSFER KE ROK KOVACIC,Assets:Cash:Rok
+in,TRANSFER KE SDR PANDE PUTU SUASAMA,Assets:Cash:Raul
+in,TRF/PAY/TOP-UP ECHANNEL BPK FAISAL AHMAD,Expenses:Motorbike
+in,TRF/PAY/TOP-UP ECHANNEL BPK NURDIANSYAH,Assets:Cash:Baso
+in,LION AIR,Expenses:Travel
+in,PLN PREPAID,Expenses:Utilities:Electric
+in,VOUCHER 08,Expenses:Communications
+in,TLKOMSEL08,Expenses:Communications
+in,TO ACC 373352334,Assets:Bank:BNI34
+in,BIAYA ATM,Expenses:Bank Service Charge
+in,Dividen,Equity:Dividends
