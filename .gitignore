@@ -1,4 +1,13 @@
 *.pyc
 *.log
-wwwpages/
+*.pickle
 *.dump
+*.json
+bin/
+include/
+lib/
+local/
+piecash
+selenium/
+share/
+wwwpages/
